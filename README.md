@@ -13,5 +13,3 @@ I also do not have an official requirements.txt, but going through the codes, he
 - torch
 
 If you have any questions, feel free to contact me under [daniel.koutas@tum.de](daniel.koutas@tum.de) 
-
-
